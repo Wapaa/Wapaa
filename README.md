@@ -1,17 +1,8 @@
 <h1 align="center">Hi 👋, I'm Oumou DHMINE</h1>
 <h3 align="center">A results-oriented Data Engineer and Software Developer, delivering innovative, data-driven solutions.</h3>
-<p align="center" style="display:inline-block;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=wapaa&theme=dark&show_icons=true&hide_border=true&count_private=true" 
-    alt="wapaa's Stats"
-    style="width:500px;height:250px; vertical-align:top;"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wapaa&theme=dark&show_icons=true&hide_border=true&layout=compact" 
-    alt="wapaa's Top Languages"
-    style="width:500px; vertical-align:top;"
-  />
-</p>
+
+![wapaa's Stats](https://github-readme-stats.vercel.app/api?username=wapaa&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![wapaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wapaa&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 - 🔭 I’m currently working on **OMERO-Metrics Dashboard**, developing a visualization tool to help researchers analyze and interpret data more effectively.
 
