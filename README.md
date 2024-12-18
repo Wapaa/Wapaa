@@ -1,8 +1,18 @@
-<h1 align="center">Hi 👋, I'm Oumou DHMINE</h1>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> I'm Oumou DHMINE</h1>
 <h3 align="center">A results-oriented Data Engineer and Software Developer, delivering innovative, data-driven solutions.</h3>
 
-![wapaa's Stats](https://github-readme-stats.vercel.app/api?username=wapaa&theme=dark&show_icons=true&hide_border=true&count_private=true)
-![wapaa's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wapaa&theme=dark&show_icons=true&hide_border=true&layout=compact)
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=wapaa&theme=radical&show_icons=true&hide_border=true&count_private=true" 
+    alt="wapaa's Stats"
+    style="width:420px; vertical-align:top;"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wapaa&theme=radical&show_icons=true&hide_border=true&layout=compact" 
+    alt="wapaa's Top Languages"
+    style="width:420px; vertical-align:top;"
+  />
+</p>
 
 - 🔭 I’m currently working on **OMERO-Metrics Dashboard**, developing a visualization tool to help researchers analyze and interpret data more effectively.
 
@@ -15,13 +25,13 @@
 
 - 💼 I’m skilled in tools like **Python**, **Django**, **PostgreSQL**, **ElasticSearch**, **TensorFlow**, **Kafka**, and frameworks like **Flutter** and **React Native**.
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/oumou-dhmine-a376aa30a/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="30" height="30"/></a>
 <a href="https://medium.com/@oumoudhmine" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111501.png" alt="Medium" width="30" height="30"/></a>
 <a href="mailto:oumoudhmine@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="30" height="30"/></a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
